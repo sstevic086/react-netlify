@@ -1,0 +1,11 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff6f57;
+      }
+    </style>
+  </defs>
+  <title>bg-orange-outline</title>
+  <path class="cls-1" d="M0,0V1080H1920V0ZM1863.35,946.11c-38.4,63.88-141.77,66.34-141.77,66.34H170.19c-82.52-3.69-114,55.55-114,55.55V131.58c39.3-65.52,157.37-65.45,157.37-65.45H1240.9s467.62-2.53,530.19-.07S1863.35,12,1863.35,12Z"/>
+</svg>

@@ -1,0 +1,167 @@
+{
+  "pulse.brand": "Pulse",
+
+  "landing.hero.title.1": "How do you ",
+  "landing.hero.title.2": "do health",
+  "landing.hero.title.3": " when",
+  "landing.hero.tagline": "No one knows you like your",
+  "landing.hero.1.title": "you're a mum 24/7?",
+  "landing.hero.subtext": "We know that no two people in this world are alike. That’s why we’ve designed an AI-powered app to cater to your health and fitness needs. It’s pretty much your personal health buddy that fits in your pocket.",
+  "landing.hero.2.title": "you achoo all night?",
+  "landing.hero.3.title": "you have no time for health?",
+  "landing.hero.4.title": "getting to a doctor is a headache?",
+  "landing.hero.5.title": "you're no longer 16?",
+  "landing.hero.6.title": "it's dengue season?",
+  "landing.hero.7.title": "you're already fit?",
+
+  "landing.whatforyou.title": "So, what's in it for you?",
+  "landing.whatforyou.subtitle": "Access to health and fitness solutions just got easier, and this time – a lot more personal.",
+
+  "landing.whatshappening.title": "What's Happening?",
+  "landing.whatshappening.subtitle": "Stay up-to-date with the latest events and announcements.",
+  "landing.whatshappening.findmore": "Find out more.",
+  "landing.whatshappening.subtitle1": "Be part of Southeast Asia's premier sports, fitness and lifestyle event! Enjoy hassle-free entry when you download and register yourself on Pulse by Prudential.",
+  "landing.whatshappening.subtitle2": "Your cheat day just got sweeter! Download Pulse by Prudential and register yourself to enjoy 10% off your favourite treats* at Starbucks.",
+  "landing.whatshappening.subtitle3": "Step up for cancer this October! We'll be donating RM10,000 to the National Cancer Society Malaysia when we collectively hit 150 million steps.",
+  "landing.whatshappening.subtitle4": "March to the beat of your own drum and get rewarded! Walk away with RM50 Boost Credits when you hit your health goals for the month of March.",
+
+  "landing.letsgetpersonal.hero": "Let's Get Personal.",
+  "landing.letsgetpersonal.tagline": "With your health, that is. Learn more about your body, track your progress and stay alert of your surroundings.",
+
+  "landing.letsgetpersonal.1.title": "Meet your health assistant",
+  "landing.letsgetpersonal.1.subText": "Get relevant health insights and understand your symptom through deep-learning AI technology, or talk to a doctor wherever you are.",
+
+  "landing.letsgetpersonal.learn-more": "Learn More",
+  "landing.letsgetpersonal.2.title": "Up your game with challenges",
+  "landing.letsgetpersonal.2.subText": "Set your health goals and we'll help you get there. Keep tabs of your progress and beat challenges to unlock rewards.",
+  "landing.letsgetpersonal.3.title": "Heads-up, stay informed wherever you are",
+  "landing.letsgetpersonal.3.subText": "Be alert at all times. Keep an eye out for clinics and hospitals nearby, dengue outbreaks or even prayer times.",
+
+  "common.downloadnow.main": "Download now.",
+
+  "common.downloadnow.togetherwecanwin": "Together we can win at health.",
+  "common.downloadnow.landing": "Your healthcare & fitness app.",
+  "header.download-button": "DOWNLOAD THE APP",
+  "header.home": "Home",
+  "header.language": "English",
+  "header.features": "Features",
+  "header.features.personal-assistant": "Your Personal Health Assistant",
+  "header.features.challenges": "Up your game with challenges",
+  "header.features.alerts": "Real-time alerts and notifications",
+  "header.benefits": "Benefits",
+
+  "footer.terms": "Terms and Conditions",
+  "footer.privacy": "Privacy Notice",
+  "footer.copyright": "© 2020 PULSE ECOSYSTEMS PTE. LTD. All Rights Reserved",
+  "common.waittheresmore.health": "Meet your health assistant",
+  "common.waittheresmore.challenge": "Up your game with challenges",
+  "common.waittheresmore.alert": "Heads-up, stay informed wherever you are",
+  "common.waittheresmore.event": "Event and promotions",
+
+  "challenge.title.full": "Up your game with challenges",
+  "challenge.title.firsthalf": "Up your game with ",
+  "challenge.title.ribbontext": "challenges",
+  "challenge.title.subtitle": "Take on challenges to stay on track with your health goals and be rewarded - how's that for motivation?",
+
+  "challenge.component.1.title": "Fitness Tracker",
+  "challenge.component.1.motto": "Never lose sight of your health goals.",
+  "challenge.component.1.content": "We all need a little nudge sometimes. And we're here to help you do just that. Keep track of your road to an even healthier you and we'll keep you motivated along the way.",
+
+  "challenge.component.2.title": "Fitness Challenges",
+  "challenge.component.2.motto": "Are you up for a challenge?",
+  "challenge.component.2.content": "Take your health goals to a whole new level. Complete challenges and unlock irresistible rewards along the way. Or compete with your friends to keep your spot on the leaderboard for that extra satisfaction, topped with rewards.",
+
+  "challenge.component.downloadnow": "Step up your health game and be rewarded.",
+
+  "alert.title.full": "Heads-up, stay informed wherever you are",
+  "alert.title.firsthalf": "Heads-up, stay ",
+  "alert.title.ribbontext": "informed",
+  "alert.title.secondhalf": " wherever you are",
+  "alert.title.subtitle": "Keep a lookout for the nearest clinic or hospital, dengue zones or even prayer times.",
+
+  "alert.component.1.title": "Find a Nearby Clinic or Hospital",
+  "alert.component.1.motto": "Where's the clinic or hospital?",
+  "alert.component.1.content": "See a doctor at a nearby clinic or hospital! Just turn on your location and we'll show you around. Got someplace in mind? Just tell us where and we'll check out the area for you too. The road to recovery is so much easier now.",
+
+  "alert.component.2.title": "Dengue Alert",
+  "alert.component.2.motto": "Dodge dengue outbreaks.",
+  "alert.component.2.content": "Heads-up on dengue outbreaks - 3 months in advance! Get alerts on potential dengue zones based on your location. Now, you can easily avoid those pesky lil' fellas.",
+
+  "alert.component.3.title": "Insan Prayer",
+  "alert.component.3.motto": "Prayer alerts, wherever you are.",
+  "alert.component.3.content": "Never miss prayer time again! Set a reminder for your prayer times or easily find the direction of Qibla with our built-in compass.",
+  "alert.component.3.buttontext": "Play Video",
+
+  "alert.component.downloadnow": "Stay alert wherever you are.",
+
+  "health.title.full": "Meet your health assistant",
+  "health.title.firsthalf": "Meet ",
+  "health.title.ribbontext": "your",
+  "health.title.secondhalf": " health assistant",
+  "health.title.subtitle": "Get relevant insights and solutions made for your needs with the AI-powered app that knows your body well.",
+
+  "health.component.1.title": "Health Assessment",
+  "health.component.1.motto": "Getting to know you.",
+
+  "health.component.1.content": "Visualise your health with your very own Digital Twin! Just answer a series of questions to generate a 3D anatomical view of your body. You'll discover detailed insights into your current health condition to help improve your lifestyle.",
+
+  "health.component.2.title": "Symptom Checker",
+  "health.component.2.motto": "What's your body telling you?",
+  "health.component.2.content": "Can't tell if you've got the flu or an allergy? Tell us about it! Key in your symptom and answer questions to have our AI-powered chatbot analyse your condition and help you understand your symptom better. Comforting, isn't it?",
+
+  "health.component.3.title": "Online Consultation",
+  "health.component.3.motto": "A doctor is now only a call away.",
+  "health.component.3.content": "Too busy or too sick to see a doctor? No worries. Now you can connect with a doctor at your convenience through a video call or a phone call. This way, your health is no longer out of reach.",
+  "health.component.3.buttontext": "Play Video",
+
+  "health.component.4.title": "Health Facts, Tips and Tricks",
+  "health.component.4.motto": "Find new ways to do health!",
+  "health.component.4.content": "Discover health-related content in our tips and tricks section! Check our bite-sized guides on specific conditions or tips on how you can lead a balanced and active lifestyle.",
+
+  "health.component.downloadnow": "Meet your personal health assistant.",
+
+  "button.join-challenge": "Join Challenge",
+
+  "common.waittheresmore.title": "Wait, there's more!",
+
+  "popup.download-hint": "Download now to find out more",
+  "popup.popup-text": "New healthcare & protection. Now upgraded, all in one app.",
+  "popup.popup-subtext": "Latest version available. Download and update now!",
+
+  "promos.1.link": "/p/enjoy-a-treat-from-us-today",
+
+  "steps.1.link": "/p/step-up-for-cancer-this-october",
+
+  "jan20.1.link": "/p/new-year-new-you",
+
+  "alt.1.getpersonal": "Online Doctor Consultant And Symptom Checker App - Pulse by Prudential.",
+
+  "alt.2.getpersonal": "Set Your Health Goals And Get Rewards - Pulse By Prudential",
+
+  "alt.3.getpersonal": "Dengue Alert App - Pulse By Prudential",
+
+  "alt.1.starbucks": "Download Pulse App And Register To Enjoy 10% Discounts At Starbucks",
+
+  "alt.1.banner": "24/7 Healthcare App For A Mum - Pulse Healthcare App",
+  "alt.2.banner": "How To Stop Sneezing - Pulse Healthcare App",
+  "alt.3.banner": "How To Take Care Of Yourself Physically When Busy - Pulse Healthcare App",
+  "alt.4.banner": "Pulse App Takes Care Of You When Getting To A Doctor Is A Headache For You",
+  "alt.5.banner": "How To Take Care Of Yourself In Old Age - Pulse Healthcare App",
+  "alt.6.banner": "Dengue Prevention - Pulse Healthcare App",
+  "alt.7.banner": "How To Keep Fit And Healthy - Pulse Healthcare App",
+
+  "whatshappening.alt.goifex": "Exclusive 25% off tickets for GOiFEX Pulse by Prudential",
+  "whatshappening.alt.challenge": "Be rewarded when you step up for cancer - Pulse by Prudential",
+  "whatshappening.alt.starbucks": "Download Pulse App And Register To Enjoy 10% Discounts At Starbucks",
+  "whatshappening.alt.jan20": "Let’s get active! - Pulse by Prudential",
+
+  "landing.hero.title.01": "Your ",
+  "alt.01.banner": "Your healthcare & fitness app.",
+  "landing.hero.title.02": "healthcare & fitness ",
+  "landing.hero.title.03": "app",
+  "landing.hero.01.title": "Now upgraded.",
+  "landing.hero.01.tagline01": "Latest version available.",
+  "landing.hero.01.tagline02": "Download and update now!",
+  "landing.hero.01.tagline": "Latest version available. Download and update now!",
+  "landing.hero.01.subtext": "Manage and monitor your health holistically with ease from whenever you are with our new features."
+}

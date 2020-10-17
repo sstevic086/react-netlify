@@ -1,0 +1,151 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.popup-text {
+  position: absolute;
+  top: 10%;
+  color: #fff;
+  font-size: 30px;
+  left: 8%;
+  line-height: normal;
+  width: 260px;
+}
+.popup-subtext {
+  position: absolute;
+  top: 73%;
+  color: #fff;
+  font-size: 24px;
+  left: 5%;
+  text-align: center;
+  line-height: normal;
+  width: 320px;
+}
+.text-white {
+  color: #fff;
+}
+.text-red {
+  color: #d31526;
+}
+.text-width-70 {
+  width: 80%;
+}
+.margin-0 {
+  margin: 0;
+}
+.bottom-parent-relative {
+  position: relative;
+}
+.bottom-text {
+  position: absolute;
+  left: 37.2%;
+  font-size: 50px;
+  font-weight: bold;
+  top: 30%;
+  line-height: normal;
+}
+.bottom-subtext {
+  position: absolute;
+  top: 43%;
+  left: 37.2%;
+  font-size: 50px;
+  font-weight: bold;
+}
+.download-on-footer-banner {
+  position: absolute;
+  left: 45.2%;
+  top: 71%;
+}
+.latest-version-download-text {
+  position: absolute;
+  left: 45.2%;
+  top: 73.5%;
+  font-size: 18px;
+  line-height: normal !important;
+}
+.download-on-footer-banner a img {
+  width: 120px;
+  height: auto;
+}
+
+@media screen and (max-width: 899px) {
+  .download-button-bottom a img {
+    width: 80px;
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .bottom-text {
+    font-size: 40px;
+    top: 5%;
+    left: 0;
+    width: 100%;
+    text-align: center;
+  }
+  .bottom-subtext {
+    font-size: 40px;
+    left: 0;
+    top: 24%;
+    width: 100%;
+    text-align: center;
+  }
+  .latest-version-download-text {
+    left: 0;
+    top: 65%;
+    font-size: 26px;
+    text-align: center;
+    width: 100%;
+  }
+  .download-on-footer-banner {
+    left: 0;
+    top: 71% !important;
+    width: 100% !important;
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center !important;
+  }
+}
+@media screen and (max-width: 550px) {
+  .popup-text {
+    font-size: 20px;
+    width: 180px;
+  }
+  .popup-subtext {
+    font-size: 13px;
+    width: 200px;
+  }
+  .bIefoV {
+    width: 75px;
+    height: auto;
+  }
+  .modal-content {
+    border: 0px !important;
+  }
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

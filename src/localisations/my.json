@@ -1,0 +1,167 @@
+{
+  "pulse.brand": "Pulse",
+
+  "landing.hero.title.1": "Bagaimana jadi ",
+  "landing.hero.title.2": "sihat",
+  "landing.hero.title.3": " bila",
+
+  "landing.hero.tagline": "Tiada yang mengenalimu seperti",
+  "landing.hero.1.title": "anda ibu sepenuh masa?",
+  "landing.hero.subtext": "Kami tahu bahawa semua orang diciptakan berbeza. Sebab itu kami reka aplikasi dikuasakan oleh AI bagi memenuhi keperluan kesihatan dan kecergasan anda. Ia sama seperti rakan untuk penjagaan kesihatan peribadi dalam poket anda.",
+  "landing.hero.2.title": "bersin semalaman?",
+  "landing.hero.3.title": "tiada masa untuk sihat?",
+  "landing.hero.4.title": "jumpa doktor pun memeningkan?",
+  "landing.hero.5.title": "anda bukan remaja lagi?",
+  "landing.hero.6.title": "sekarang musim denggi?",
+  "landing.hero.7.title": "anda memang cergas?",
+
+  "landing.whatforyou.title": "Jadi, apakah manfaatnya pada anda?",
+  "landing.whatforyou.subtitle": "Lebih mudah untuk mendapatkan solusi kesihatan dan kecergasan. Malah kali ini, ianya lebih bersifat peribadi.",
+
+  "landing.whatshappening.title": "Apa yang sedang berlaku?",
+  "landing.whatshappening.subtitle": "Dapatkan info baharu tentang acara dan pengumuman terkini.",
+  "landing.whatshappening.findmore": "Ketahui lebih lanjut.",
+  "landing.whatshappening.subtitle1": "Sertai acara sukan, kecergasan dan gaya hidup premium di Asia Tenggara! Muat turun Pulse by Prudential dan daftar diri anda untuk kemasukan mudah di GOiFEX Malaysia.",
+  "landing.whatshappening.subtitle2": "Hari yang anda tidak perlu jaga makan kini menjadi lebih seronok! Muat turun Pulse by Prudential dan daftar diri anda untuk menikmati diskaun 10% untuk *sajian kegemaran anda di Starbucks.",
+  "landing.whatshappening.subtitle3": "Bergerak melawan kanser bulan Oktober ini! Kami akan menderma RM10,000 kepada Persatuan Kebangsaan Kanser Malaysia apabila kita berjaya mencecah jumlah terkumpul sebanyak 150 juta langkah!",
+  "landing.whatshappening.subtitle4": "Melangkah mengikut rentak anda untuk dapatkan ganjaran! Menangi RM50 Kredit Boost bila anda mencapai matlamat kesihatan untuk bulan Mac.",
+  "landing.letsgetpersonal.hero": "Jom bicara hati ke hati.",
+  "landing.letsgetpersonal.tagline": "Tentang kesihatan anda, itu sahaja. Ketahui lebih mendalam tentang badan anda, ikuti progres anda dan sentiasa peka dengan persekitaran anda.",
+
+  "landing.letsgetpersonal.learn-more": "Ketahui lagi",
+  "landing.letsgetpersonal.1.title": "Pembantu kesihatan anda",
+  "landing.letsgetpersonal.1.subText": "Dapatkan pandangan kesihatan berkaitan dan fahami simptom anda melalui teknologi AI yang mendalam atau berbual dengan doktor di mana saja anda berada.",
+  "landing.letsgetpersonal.2.title": "Tingkatkan tahap anda dengan cabaran",
+  "landing.letsgetpersonal.2.subText": "Tetapkan matlamat kesihatan anda dan kami akan bantu anda mencapainya. Ikuti perkembangan anda dan atasi cabaran untuk menikmati ganjaran.",
+  "landing.letsgetpersonal.3.title": "Berwaspada, dapatkan info di mana saja anda berada",
+  "landing.letsgetpersonal.3.subText": "Sentiasa peka setiap masa. Ketahui di mana klinik dan hospital berdekatan, wabak denggi atau waktu solat.",
+
+  "common.downloadnow.main": "Muat turun sekarang.",
+  "common.downloadnow.togetherwecanwin": "Bersama kita boleh berjaya untuk menjadi sihat.",
+  "common.downloadnow.landing": "Aplikasi kesihatan diri.",
+  "header.download-button": "MUAT TURUN APLIKASI",
+  "header.home": "Utama",
+  "header.language": "Bahasa Malaysia",
+  "header.features": "Fungsi",
+  "header.features.personal-assistant": "Pembantu Kesihatan Anda",
+  "header.features.challenges": "Tingkatkan tahap anda dengan cabaran",
+  "header.features.alerts": "Info di mana sahaja anda berada",
+  "header.benefits": "Manfaat",
+
+  "footer.terms": "Terma dan Syarat",
+  "footer.privacy": "Notis Privasi",
+  "footer.copyright": "© 2020 PULSE ECOSYSTEMS PTE. LTD. Hak Cipta Terpelihara",
+  "common.waittheresmore.health": "Pembantu kesihatan anda",
+  "common.waittheresmore.challenge": "Tingkatkan tahap anda dengan cabaran",
+  "common.waittheresmore.alert": "Berwaspada, dapatkan info di mana sahaja anda berada",
+  "common.waittheresmore.event": "Acara dan promosi",
+
+  "challenge.title.full": "Tingkatkan tahap anda dengan cabaran",
+  "challenge.title.firsthalf": "Tingkatkan tahap anda dengan ",
+  "challenge.title.ribbontext": "cabaran",
+  "challenge.title.subtitle": "Atasi cabaran untuk kekalkan usaha dalam mencapai matlamat kesihatan dan miliki ganjaran. Seronokkan mempunyai motivasi seperti itu?",
+
+  "challenge.component.1.title": "Penjejak Kecergasan",
+  "challenge.component.1.motto": "Jangan lupakan matlamat kesihatan anda.",
+  "challenge.component.1.content": "Kadang-kala, kita hilang semangat. Kami di sini boleh membantu anda. Ikuti perkembangan perjalanan menuju matlamat kesihatan anda dan kami akan bantu memotivasikan anda.",
+
+  "challenge.component.2.title": "Cabaran Kecergasan",
+  "challenge.component.2.motto": "Anda berani terima cabaran?",
+  "challenge.component.2.content": "Bawa matlamat kesihatan anda ke tahap lebih tinggi. Lengkapkan cabaran dan sambil itu, nikmati ganjaran menarik. Atau bersaing dengan rakan anda untuk menduduki tempat teratas untuk lebih kepuasan, selain daripada penambahan ganjaran.",
+
+  "challenge.component.downloadnow": "Tingkatkan tahap cara jadi sihat anda dan miliki ganjaran.",
+
+  "alert.title.full": "Berwaspada, dapatkan info di mana sahaja anda berada",
+  "alert.title.firsthalf": "Berwaspada, dapatkan ",
+  "alert.title.ribbontext": "info",
+  "alert.title.secondhalf": " di mana sahaja anda berada",
+  "alert.title.subtitle": "Ketahui di mana klinik dan hospital berdekatan, zon denggi dan juga waktu solat.",
+
+  "alert.component.1.title": "Cari Klinik atau Hospital Berdekatan",
+  "alert.component.1.motto": "Di mana klinik atau hospital?",
+  "alert.component.1.content": "Jumpa doktor di klinik dan hospital berdekatan! Hanya pasangkan lokasi anda dan kami akan tunjukkan jalannya. Tahu mana nak pergi? Beritahu kami di mana tempatnya dan kami akan periksa kawasan itu untuk anda. Usaha untuk sembuh kini lebih mudah.",
+  "alert.component.1.buttontext": "Mainkan Video",
+
+  "alert.component.2.title": "Amaran Denggi",
+  "alert.component.2.motto": "Elakkan wabak denggi.",
+  "alert.component.2.content": "Berjaga-jaga dengan wabak denggi – 3 bulan lebih awal! Dapatkan amaran untuk potensi zon denggi berdasarkan lokasi anda. Kini, mudah bagi anda untuk menjauhkan diri daripada serangga halus menjengkelkan ini.",
+  "alert.component.2.buttontext": "Mainkan Video",
+
+  "alert.component.3.title": "Insan",
+  "alert.component.3.motto": "Makluman solat, di mana sahaja anda berada.",
+  "alert.component.3.content": "Jangan pernah tertinggal waktu solat lagi! Pasangkan peringatan untuk waktu solat anda atau cari arah kiblat dengan mudah menggunakan kompas yang tersedia ada.",
+  "alert.component.3.buttontext": "Mainkan Video",
+
+  "alert.component.downloadnow": "Sentiasa peka di mana sahaja anda berada.",
+
+  "health.title.full": "Pembantu kesihatan anda",
+  "health.title.firsthalf": "Pembantu ",
+  "health.title.ribbontext": "kesihatan",
+  "health.title.secondhalf": " anda",
+  "health.title.subtitle": "Dapatkan pandangan berkaitan dan solusi bersesuaian dengan keperluan individu anda dengan aplikasi dikuasakan oleh AI yang mengenali rapat badan anda.",
+
+  "health.component.1.title": "Penilaian Kesihatan",
+  "health.component.1.motto": "Kenali diri anda.",
+  "health.component.1.content": "Bayangkan kesihatan anda dengan Kembar Digital diri anda! Hanya jawab beberapa siri soalan untuk menghasilkan pandangan anatomi 3D badan anda. Anda akan temui pandangan keadaan kesihatan anda sekarang dan cadangan untuk menjadikan gaya hidup anda bertambah baik.",
+  "health.component.1.buttontext": "Mainkan Video",
+
+  "health.component.2.title": "Pemeriksaan Simptom",
+  "health.component.2.motto": "Tidak pasti apa yang badan anda sedang alami?",
+  "health.component.2.content": "Tak tahu jika anda terkena selesema atau alergi? Kami faham! Masukkan simptom anda dan jawab soalan. Chatbot dikuasakan AI kami akan menganalisis keadaan anda dan membantu anda memahami simptom anda dengan lebih baik. Menyenangkan, betul?",
+  "health.component.2.buttontext": "Mainkan Video",
+
+  "health.component.3.title": "Rundingan Dalam Talian",
+  "health.component.3.motto": "Doktor kini di hujung jari.",
+  "health.component.3.content": "Terlalu sibuk atau terlalu sakit untuk berjumpa doktor? Jangan risau. Kini lebih mudah untuk anda berhubung dengan doktor melalui panggilan video atau telefon. Dengan ini, tidak sukar untuk menjadi sihat.",
+  "health.component.3.buttontext": "Mainkan Video",
+
+  "health.component.4.title": "Fakta Kesihatan, Petua dan Panduan",
+  "health.component.4.motto": "Cari cara baru untuk sihat!",
+  "health.component.4.content": "Temui kandungan berkaitan kesihatan di bahagian petua dan panduan kami! Dapatkan panduan ringkas dan mudah difahami untuk keadaan khusus atau petua bagaimana anda boleh jalani gaya hidup aktif dan seimbang.",
+
+  "health.component.downloadnow": "Temui pembantu peribadi kesihatan anda.",
+
+  "button.join-challenge": "Sertai Cabaran",
+
+  "common.waittheresmore.title": "Nanti dulu, ada lagi!",
+
+  "popup.download-hint": "Muat turun sekarang untuk info lanjut",
+  "popup.popup-text": "Kesihatan & perlindungan baharu. Kini diperbaharui, semua dalam satu aplikasi.",
+  "popup.popup-subtext": "Versi terkini tersedia. Muat turun dan kemas kini sekarang!",
+
+  "promos.1.link": "/p/kami-belanja-anda-hari-ini",
+
+  "steps.1.link": "/p/bergerak-melawan-kanser-bulan-oktober-ini",
+
+  "jan20.1.link": "/p/tahun-baru-dini-baru",
+
+  "alt.1.getpersonal": "Pulse: Pembantu kesihatan anda",
+
+  "alt.2.getpersonal": "Pulse: Tetapkan matlamat kesihatan anda dengan cabaran",
+
+  "alt.3.getpersonal": "Pulse: Tetap dimaklumkan di mana sahaja anda berada",
+
+  "alt.1.starbucks": "Pulse memberikan diskon 10% di Starbucks",
+
+  "alt.1.banner": "Pulse mengurus kesihatan anda apabila anda seorang ibu",
+  "alt.2.banner": "Pulse mengurus kesihatan anda apabila anda sakit",
+  "alt.3.banner": "Pulse mengurus kesihatan anda semasa anda sedang sibuk",
+  "alt.4.banner": "Pulse mengurus kesihatan anda apabila pergi ke doktor adalah sukar",
+  "alt.5.banner": "Pulse mengurus kesihatan anda apabila anda sedang penuaan",
+  "alt.6.banner": "Pulse mengurus kesihatan anda semasa musim denggi",
+  "alt.7.banner": "Pulse mengurus kesihatan anda walaupun anda sudah sihat",
+
+  "whatshappening.alt.challenge": "Bergerak melawan kanser dan nikmati ganjaran dari Pulse",
+  "whatshappening.alt.starbucks": "Pulse memberikan diskon 10% di Starbucks",
+  "whatshappening.alt.jan20": "Jom bersenam sekarang! - Pulse by Prudential",
+
+  "landing.hero.title.01": "Aplikasi ",
+  "alt.01.banner": "kesihatan & kecergasan anda.",
+  "landing.hero.title.02": "kesihatan & kecergasan ",
+  "landing.hero.title.03": "anda ",
+  "landing.hero.01.title": "Kini diperbaharui.",
+  "landing.hero.01.tagline": "Versi terkini tersedia. Muat turun dan kemas kini sekarang!",
+  "landing.hero.01.tagline01": "Versi terkini tersedia.",
+  "landing.hero.01.tagline02": "Muat turun dan kemas kini sekarang!",
+  "landing.hero.01.subtext": "Urus dan pantau kesihatan anda secara holistik dengan mudah dari mana jua anda berada dengan ciri-ciri baharu kami."
+}
